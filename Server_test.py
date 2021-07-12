@@ -13,7 +13,6 @@ import requests
 # In[2]:
 
 
-from __future__ import division, print_function, unicode_literals
 get_ipython().run_line_magic('matplotlib', 'inline')
 import matplotlib
 import matplotlib.pyplot as plt
